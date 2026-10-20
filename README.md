@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a first-year student in the Bachelor’s degree program in Information Systems, Faculty of Engineering, State University of Surabaya.
+## I am a first-year student in the Bachelor’s degree program in Information Systems, Faculty of Engineering, State University of Surabaya.
 
 
 ## 🌐 Socials:
